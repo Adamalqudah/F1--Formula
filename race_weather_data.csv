@@ -1,0 +1,1102 @@
+weatherid,raceId,date,weather_code,Description
+1,1,3/29/2009,3,Clouds generally forming or developing
+2,2,4/5/2009,63,"Rain, not freezing, continuous"
+3,3,4/19/2009,63,"Rain, not freezing, continuous"
+4,4,4/26/2009,1,Clouds generally dissolving or becoming less developed
+5,5,5/10/2009,51,"Drizzle, not freezing, continuous"
+6,6,5/24/2009,1,Clouds generally dissolving or becoming less developed
+7,7,6/7/2009,0,Cloud development not observed or not observable
+8,8,6/21/2009,3,Clouds generally forming or developing
+9,9,7/12/2009,51,"Drizzle, not freezing, continuous"
+10,10,7/26/2009,1,Clouds generally dissolving or becoming less developed
+11,11,8/23/2009,0,Cloud development not observed or not observable
+12,12,8/30/2009,3,Clouds generally forming or developing
+13,13,9/13/2009,51,"Drizzle, not freezing, continuous"
+14,14,9/27/2009,53,"Drizzle, not freezing, continuous"
+15,15,10/4/2009,1,Clouds generally dissolving or becoming less developed
+16,16,10/18/2009,65,"Rain, not freezing, continuous"
+17,17,11/1/2009,0,Cloud development not observed or not observable
+18,18,3/16/2008,1,Clouds generally dissolving or becoming less developed
+19,19,3/23/2008,63,"Rain, not freezing, continuous"
+20,20,4/6/2008,2,State of sky on the whole unchanged
+21,21,4/27/2008,1,Clouds generally dissolving or becoming less developed
+22,22,5/11/2008,3,Clouds generally forming or developing
+23,23,5/25/2008,61,"Rain, not freezing, continuous"
+24,24,6/8/2008,63,"Rain, not freezing, continuous"
+25,25,6/22/2008,51,"Drizzle, not freezing, continuous"
+26,26,7/6/2008,63,"Rain, not freezing, continuous"
+27,27,7/20/2008,2,State of sky on the whole unchanged
+28,28,8/3/2008,1,Clouds generally dissolving or becoming less developed
+29,29,8/24/2008,2,State of sky on the whole unchanged
+30,30,9/7/2008,53,"Drizzle, not freezing, continuous"
+31,31,9/14/2008,61,"Rain, not freezing, continuous"
+32,32,9/28/2008,51,"Drizzle, not freezing, continuous"
+33,33,10/12/2008,3,Clouds generally forming or developing
+34,34,10/19/2008,53,"Drizzle, not freezing, continuous"
+35,35,11/2/2008,63,"Rain, not freezing, continuous"
+36,36,3/18/2007,2,State of sky on the whole unchanged
+37,37,4/8/2007,61,"Rain, not freezing, continuous"
+38,38,4/15/2007,0,Cloud development not observed or not observable
+39,39,5/13/2007,2,State of sky on the whole unchanged
+40,40,5/27/2007,61,"Rain, not freezing, continuous"
+41,41,6/10/2007,51,"Drizzle, not freezing, continuous"
+42,42,6/17/2007,1,Clouds generally dissolving or becoming less developed
+43,43,7/1/2007,55,"Drizzle, not freezing, continuous"
+44,44,7/8/2007,2,State of sky on the whole unchanged
+45,45,7/22/2007,51,"Drizzle, not freezing, continuous"
+46,46,8/5/2007,3,Clouds generally forming or developing
+47,47,8/26/2007,2,State of sky on the whole unchanged
+48,48,9/9/2007,1,Clouds generally dissolving or becoming less developed
+49,49,9/16/2007,2,State of sky on the whole unchanged
+50,50,9/30/2007,63,"Rain, not freezing, continuous"
+51,51,10/7/2007,63,"Rain, not freezing, continuous"
+52,52,10/21/2007,61,"Rain, not freezing, continuous"
+53,53,3/12/2006,0,Cloud development not observed or not observable
+54,54,3/19/2006,63,"Rain, not freezing, continuous"
+55,55,4/2/2006,3,Clouds generally forming or developing
+56,56,4/23/2006,0,Cloud development not observed or not observable
+57,57,5/7/2006,2,State of sky on the whole unchanged
+58,58,5/14/2006,1,Clouds generally dissolving or becoming less developed
+59,59,5/28/2006,3,Clouds generally forming or developing
+60,60,6/11/2006,2,State of sky on the whole unchanged
+61,61,6/25/2006,3,Clouds generally forming or developing
+62,62,7/2/2006,2,State of sky on the whole unchanged
+63,63,7/16/2006,0,Cloud development not observed or not observable
+64,64,7/30/2006,51,"Drizzle, not freezing, continuous"
+65,65,8/6/2006,53,"Drizzle, not freezing, continuous"
+66,66,8/27/2006,0,Cloud development not observed or not observable
+67,67,9/10/2006,1,Clouds generally dissolving or becoming less developed
+68,68,10/1/2006,51,"Drizzle, not freezing, continuous"
+69,69,10/8/2006,1,Clouds generally dissolving or becoming less developed
+70,70,10/22/2006,51,"Drizzle, not freezing, continuous"
+71,71,3/6/2005,3,Clouds generally forming or developing
+72,72,3/20/2005,2,State of sky on the whole unchanged
+73,73,4/3/2005,1,Clouds generally dissolving or becoming less developed
+74,74,4/24/2005,53,"Drizzle, not freezing, continuous"
+75,75,5/8/2005,1,Clouds generally dissolving or becoming less developed
+76,76,5/22/2005,51,"Drizzle, not freezing, continuous"
+77,77,5/29/2005,61,"Rain, not freezing, continuous"
+78,78,6/12/2005,53,"Drizzle, not freezing, continuous"
+79,79,6/19/2005,3,Clouds generally forming or developing
+80,80,7/3/2005,1,Clouds generally dissolving or becoming less developed
+81,81,7/10/2005,1,Clouds generally dissolving or becoming less developed
+82,82,7/24/2005,61,"Rain, not freezing, continuous"
+83,83,7/31/2005,63,"Rain, not freezing, continuous"
+84,84,8/21/2005,51,"Drizzle, not freezing, continuous"
+85,85,9/4/2005,53,"Drizzle, not freezing, continuous"
+86,86,9/11/2005,53,"Drizzle, not freezing, continuous"
+87,87,9/25/2005,63,"Rain, not freezing, continuous"
+88,88,10/9/2005,51,"Drizzle, not freezing, continuous"
+89,89,10/16/2005,1,Clouds generally dissolving or becoming less developed
+90,90,3/7/2004,3,Clouds generally forming or developing
+91,91,3/21/2004,53,"Drizzle, not freezing, continuous"
+92,92,4/4/2004,3,Clouds generally forming or developing
+93,93,4/25/2004,51,"Drizzle, not freezing, continuous"
+94,94,5/9/2004,2,State of sky on the whole unchanged
+95,95,5/23/2004,53,"Drizzle, not freezing, continuous"
+96,96,5/30/2004,53,"Drizzle, not freezing, continuous"
+97,97,6/13/2004,2,State of sky on the whole unchanged
+98,98,6/20/2004,1,Clouds generally dissolving or becoming less developed
+99,99,7/4/2004,1,Clouds generally dissolving or becoming less developed
+100,100,7/11/2004,51,"Drizzle, not freezing, continuous"
+101,101,7/25/2004,2,State of sky on the whole unchanged
+102,102,8/15/2004,1,Clouds generally dissolving or becoming less developed
+103,103,8/29/2004,3,Clouds generally forming or developing
+104,104,9/12/2004,55,"Drizzle, not freezing, continuous"
+105,105,9/26/2004,51,"Drizzle, not freezing, continuous"
+106,106,10/10/2004,61,"Rain, not freezing, continuous"
+107,107,10/24/2004,55,"Drizzle, not freezing, continuous"
+108,108,3/9/2003,51,"Drizzle, not freezing, continuous"
+109,109,3/23/2003,53,"Drizzle, not freezing, continuous"
+110,110,4/6/2003,63,"Rain, not freezing, continuous"
+111,111,4/20/2003,3,Clouds generally forming or developing
+112,112,5/4/2003,2,State of sky on the whole unchanged
+113,113,5/18/2003,61,"Rain, not freezing, continuous"
+114,114,6/1/2003,51,"Drizzle, not freezing, continuous"
+115,115,6/15/2003,51,"Drizzle, not freezing, continuous"
+116,116,6/29/2003,3,Clouds generally forming or developing
+117,117,7/6/2003,3,Clouds generally forming or developing
+118,118,7/20/2003,3,Clouds generally forming or developing
+119,119,8/3/2003,1,Clouds generally dissolving or becoming less developed
+120,120,8/24/2003,0,Cloud development not observed or not observable
+121,121,9/14/2003,2,State of sky on the whole unchanged
+122,122,9/28/2003,61,"Rain, not freezing, continuous"
+123,123,10/12/2003,63,"Rain, not freezing, continuous"
+124,124,3/3/2002,51,"Drizzle, not freezing, continuous"
+125,125,3/17/2002,63,"Rain, not freezing, continuous"
+126,126,3/31/2002,1,Clouds generally dissolving or becoming less developed
+127,127,4/14/2002,53,"Drizzle, not freezing, continuous"
+128,128,4/28/2002,3,Clouds generally forming or developing
+129,129,5/12/2002,63,"Rain, not freezing, continuous"
+130,130,5/26/2002,51,"Drizzle, not freezing, continuous"
+131,131,6/9/2002,51,"Drizzle, not freezing, continuous"
+132,132,6/23/2002,3,Clouds generally forming or developing
+133,133,7/7/2002,51,"Drizzle, not freezing, continuous"
+134,134,7/21/2002,2,State of sky on the whole unchanged
+135,135,7/28/2002,0,Cloud development not observed or not observable
+136,136,8/18/2002,1,Clouds generally dissolving or becoming less developed
+137,137,9/1/2002,3,Clouds generally forming or developing
+138,138,9/15/2002,2,State of sky on the whole unchanged
+139,139,9/29/2002,0,Cloud development not observed or not observable
+140,140,10/13/2002,0,Cloud development not observed or not observable
+141,141,3/4/2001,3,Clouds generally forming or developing
+142,142,3/18/2001,51,"Drizzle, not freezing, continuous"
+143,143,4/1/2001,63,"Rain, not freezing, continuous"
+144,144,4/15/2001,2,State of sky on the whole unchanged
+145,145,4/29/2001,3,Clouds generally forming or developing
+146,146,5/13/2001,2,State of sky on the whole unchanged
+147,147,5/27/2001,2,State of sky on the whole unchanged
+148,148,6/10/2001,51,"Drizzle, not freezing, continuous"
+149,149,6/24/2001,3,Clouds generally forming or developing
+150,150,7/1/2001,1,Clouds generally dissolving or becoming less developed
+151,151,7/15/2001,51,"Drizzle, not freezing, continuous"
+152,152,7/29/2001,2,State of sky on the whole unchanged
+153,153,8/19/2001,51,"Drizzle, not freezing, continuous"
+154,154,9/2/2001,53,"Drizzle, not freezing, continuous"
+155,155,9/16/2001,1,Clouds generally dissolving or becoming less developed
+156,156,9/30/2001,0,Cloud development not observed or not observable
+157,157,10/14/2001,1,Clouds generally dissolving or becoming less developed
+158,158,3/12/2000,1,Clouds generally dissolving or becoming less developed
+159,159,3/26/2000,51,"Drizzle, not freezing, continuous"
+160,160,4/9/2000,51,"Drizzle, not freezing, continuous"
+161,161,4/23/2000,53,"Drizzle, not freezing, continuous"
+162,162,5/7/2000,61,"Rain, not freezing, continuous"
+163,163,5/21/2000,61,"Rain, not freezing, continuous"
+164,164,6/4/2000,0,Cloud development not observed or not observable
+165,165,6/18/2000,53,"Drizzle, not freezing, continuous"
+166,166,7/2/2000,51,"Drizzle, not freezing, continuous"
+167,167,7/16/2000,3,Clouds generally forming or developing
+168,168,7/30/2000,63,"Rain, not freezing, continuous"
+169,169,8/13/2000,51,"Drizzle, not freezing, continuous"
+170,170,8/27/2000,53,"Drizzle, not freezing, continuous"
+171,171,9/10/2000,1,Clouds generally dissolving or becoming less developed
+172,172,9/24/2000,61,"Rain, not freezing, continuous"
+173,173,10/8/2000,63,"Rain, not freezing, continuous"
+174,174,10/22/2000,51,"Drizzle, not freezing, continuous"
+175,175,3/7/1999,3,Clouds generally forming or developing
+176,176,4/11/1999,3,Clouds generally forming or developing
+177,177,5/2/1999,1,Clouds generally dissolving or becoming less developed
+178,178,5/16/1999,51,"Drizzle, not freezing, continuous"
+179,179,5/30/1999,2,State of sky on the whole unchanged
+180,180,6/13/1999,0,Cloud development not observed or not observable
+181,181,6/27/1999,63,"Rain, not freezing, continuous"
+182,182,7/11/1999,3,Clouds generally forming or developing
+183,183,7/25/1999,51,"Drizzle, not freezing, continuous"
+184,184,8/1/1999,1,Clouds generally dissolving or becoming less developed
+185,185,8/15/1999,51,"Drizzle, not freezing, continuous"
+186,186,8/29/1999,3,Clouds generally forming or developing
+187,187,9/12/1999,0,Cloud development not observed or not observable
+188,188,9/26/1999,61,"Rain, not freezing, continuous"
+189,189,10/17/1999,53,"Drizzle, not freezing, continuous"
+190,190,10/31/1999,63,"Rain, not freezing, continuous"
+191,191,3/8/1998,0,Cloud development not observed or not observable
+192,192,3/29/1998,63,"Rain, not freezing, continuous"
+193,193,4/12/1998,61,"Rain, not freezing, continuous"
+194,194,4/26/1998,1,Clouds generally dissolving or becoming less developed
+195,195,5/10/1998,3,Clouds generally forming or developing
+196,196,5/24/1998,51,"Drizzle, not freezing, continuous"
+197,197,6/7/1998,51,"Drizzle, not freezing, continuous"
+198,198,6/28/1998,3,Clouds generally forming or developing
+199,199,7/12/1998,51,"Drizzle, not freezing, continuous"
+200,200,7/26/1998,53,"Drizzle, not freezing, continuous"
+201,201,8/2/1998,55,"Drizzle, not freezing, continuous"
+202,202,8/16/1998,2,State of sky on the whole unchanged
+203,203,8/30/1998,51,"Drizzle, not freezing, continuous"
+204,204,9/13/1998,53,"Drizzle, not freezing, continuous"
+205,205,9/27/1998,51,"Drizzle, not freezing, continuous"
+206,206,11/1/1998,3,Clouds generally forming or developing
+207,207,3/9/1997,2,State of sky on the whole unchanged
+208,208,3/30/1997,51,"Drizzle, not freezing, continuous"
+209,209,4/13/1997,1,Clouds generally dissolving or becoming less developed
+210,210,4/27/1997,55,"Drizzle, not freezing, continuous"
+211,211,5/11/1997,61,"Rain, not freezing, continuous"
+212,212,5/25/1997,51,"Drizzle, not freezing, continuous"
+213,213,6/15/1997,2,State of sky on the whole unchanged
+214,214,6/29/1997,61,"Rain, not freezing, continuous"
+215,215,7/13/1997,51,"Drizzle, not freezing, continuous"
+216,216,7/27/1997,51,"Drizzle, not freezing, continuous"
+217,217,8/10/1997,1,Clouds generally dissolving or becoming less developed
+218,218,8/24/1997,51,"Drizzle, not freezing, continuous"
+219,219,9/7/1997,63,"Rain, not freezing, continuous"
+220,220,9/21/1997,3,Clouds generally forming or developing
+221,221,9/28/1997,3,Clouds generally forming or developing
+222,222,10/12/1997,2,State of sky on the whole unchanged
+223,223,10/26/1997,51,"Drizzle, not freezing, continuous"
+224,224,3/10/1996,0,Cloud development not observed or not observable
+225,225,3/31/1996,61,"Rain, not freezing, continuous"
+226,226,4/7/1996,1,Clouds generally dissolving or becoming less developed
+227,227,4/28/1996,53,"Drizzle, not freezing, continuous"
+228,228,5/5/1996,1,Clouds generally dissolving or becoming less developed
+229,229,5/19/1996,61,"Rain, not freezing, continuous"
+230,230,6/2/1996,61,"Rain, not freezing, continuous"
+231,231,6/16/1996,2,State of sky on the whole unchanged
+232,232,6/30/1996,3,Clouds generally forming or developing
+233,233,7/14/1996,51,"Drizzle, not freezing, continuous"
+234,234,7/28/1996,51,"Drizzle, not freezing, continuous"
+235,235,8/11/1996,3,Clouds generally forming or developing
+236,236,8/25/1996,51,"Drizzle, not freezing, continuous"
+237,237,9/8/1996,0,Cloud development not observed or not observable
+238,238,9/22/1996,2,State of sky on the whole unchanged
+239,239,10/13/1996,63,"Rain, not freezing, continuous"
+240,240,3/26/1995,51,"Drizzle, not freezing, continuous"
+241,241,4/9/1995,63,"Rain, not freezing, continuous"
+242,242,4/30/1995,61,"Rain, not freezing, continuous"
+243,243,5/14/1995,1,Clouds generally dissolving or becoming less developed
+244,244,5/28/1995,3,Clouds generally forming or developing
+245,245,6/11/1995,61,"Rain, not freezing, continuous"
+246,246,7/2/1995,61,"Rain, not freezing, continuous"
+247,247,7/16/1995,61,"Rain, not freezing, continuous"
+248,248,7/30/1995,1,Clouds generally dissolving or becoming less developed
+249,249,8/13/1995,0,Cloud development not observed or not observable
+250,250,8/27/1995,53,"Drizzle, not freezing, continuous"
+251,251,9/10/1995,53,"Drizzle, not freezing, continuous"
+252,252,9/24/1995,1,Clouds generally dissolving or becoming less developed
+253,253,10/1/1995,51,"Drizzle, not freezing, continuous"
+254,254,10/22/1995,2,State of sky on the whole unchanged
+255,255,10/29/1995,53,"Drizzle, not freezing, continuous"
+256,256,11/12/1995,1,Clouds generally dissolving or becoming less developed
+257,257,3/27/1994,53,"Drizzle, not freezing, continuous"
+258,258,4/17/1994,1,Clouds generally dissolving or becoming less developed
+259,259,5/1/1994,51,"Drizzle, not freezing, continuous"
+260,260,5/15/1994,1,Clouds generally dissolving or becoming less developed
+261,261,5/29/1994,3,Clouds generally forming or developing
+262,262,6/12/1994,63,"Rain, not freezing, continuous"
+263,263,7/3/1994,51,"Drizzle, not freezing, continuous"
+264,264,7/10/1994,1,Clouds generally dissolving or becoming less developed
+265,265,7/31/1994,1,Clouds generally dissolving or becoming less developed
+266,266,8/14/1994,61,"Rain, not freezing, continuous"
+267,267,8/28/1994,61,"Rain, not freezing, continuous"
+268,268,9/11/1994,3,Clouds generally forming or developing
+269,269,9/25/1994,51,"Drizzle, not freezing, continuous"
+270,270,10/16/1994,3,Clouds generally forming or developing
+271,271,11/6/1994,61,"Rain, not freezing, continuous"
+272,272,11/13/1994,3,Clouds generally forming or developing
+273,273,3/14/1993,51,"Drizzle, not freezing, continuous"
+274,274,3/28/1993,65,"Rain, not freezing, continuous"
+275,275,4/11/1993,61,"Rain, not freezing, continuous"
+276,276,4/25/1993,51,"Drizzle, not freezing, continuous"
+277,277,5/9/1993,3,Clouds generally forming or developing
+278,278,5/23/1993,2,State of sky on the whole unchanged
+279,279,6/13/1993,1,Clouds generally dissolving or becoming less developed
+280,280,7/4/1993,1,Clouds generally dissolving or becoming less developed
+281,281,7/11/1993,51,"Drizzle, not freezing, continuous"
+282,282,7/25/1993,53,"Drizzle, not freezing, continuous"
+283,283,8/15/1993,0,Cloud development not observed or not observable
+284,284,8/29/1993,3,Clouds generally forming or developing
+285,285,9/12/1993,3,Clouds generally forming or developing
+286,286,9/26/1993,0,Cloud development not observed or not observable
+287,287,10/24/1993,2,State of sky on the whole unchanged
+288,288,11/7/1993,51,"Drizzle, not freezing, continuous"
+289,289,3/1/1992,2,State of sky on the whole unchanged
+290,290,3/22/1992,1,Clouds generally dissolving or becoming less developed
+291,291,4/5/1992,3,Clouds generally forming or developing
+292,292,5/3/1992,51,"Drizzle, not freezing, continuous"
+293,293,5/17/1992,2,State of sky on the whole unchanged
+294,294,5/31/1992,2,State of sky on the whole unchanged
+295,295,6/14/1992,51,"Drizzle, not freezing, continuous"
+296,296,7/5/1992,53,"Drizzle, not freezing, continuous"
+297,297,7/12/1992,53,"Drizzle, not freezing, continuous"
+298,298,7/26/1992,1,Clouds generally dissolving or becoming less developed
+299,299,8/16/1992,51,"Drizzle, not freezing, continuous"
+300,300,8/30/1992,55,"Drizzle, not freezing, continuous"
+301,301,9/13/1992,0,Cloud development not observed or not observable
+302,302,9/27/1992,51,"Drizzle, not freezing, continuous"
+303,303,10/25/1992,2,State of sky on the whole unchanged
+304,304,11/8/1992,61,"Rain, not freezing, continuous"
+305,305,3/10/1991,3,Clouds generally forming or developing
+306,306,3/24/1991,63,"Rain, not freezing, continuous"
+307,307,4/28/1991,61,"Rain, not freezing, continuous"
+308,308,5/12/1991,51,"Drizzle, not freezing, continuous"
+309,309,6/2/1991,2,State of sky on the whole unchanged
+310,310,6/16/1991,63,"Rain, not freezing, continuous"
+311,311,7/7/1991,55,"Drizzle, not freezing, continuous"
+312,312,7/14/1991,3,Clouds generally forming or developing
+313,313,7/28/1991,1,Clouds generally dissolving or becoming less developed
+314,314,8/11/1991,3,Clouds generally forming or developing
+315,315,8/25/1991,2,State of sky on the whole unchanged
+316,316,9/8/1991,55,"Drizzle, not freezing, continuous"
+317,317,9/22/1991,2,State of sky on the whole unchanged
+318,318,9/29/1991,53,"Drizzle, not freezing, continuous"
+319,319,10/20/1991,0,Cloud development not observed or not observable
+320,320,11/3/1991,63,"Rain, not freezing, continuous"
+321,321,3/11/1990,51,"Drizzle, not freezing, continuous"
+322,322,3/25/1990,3,Clouds generally forming or developing
+323,323,5/13/1990,2,State of sky on the whole unchanged
+324,324,5/27/1990,61,"Rain, not freezing, continuous"
+325,325,6/10/1990,63,"Rain, not freezing, continuous"
+326,326,6/24/1990,63,"Rain, not freezing, continuous"
+327,327,7/8/1990,1,Clouds generally dissolving or becoming less developed
+328,328,7/15/1990,51,"Drizzle, not freezing, continuous"
+329,329,7/29/1990,51,"Drizzle, not freezing, continuous"
+330,330,8/12/1990,1,Clouds generally dissolving or becoming less developed
+331,331,8/26/1990,3,Clouds generally forming or developing
+332,332,9/9/1990,1,Clouds generally dissolving or becoming less developed
+333,333,9/23/1990,51,"Drizzle, not freezing, continuous"
+334,334,9/30/1990,53,"Drizzle, not freezing, continuous"
+335,335,10/21/1990,2,State of sky on the whole unchanged
+336,336,11/4/1990,0,Cloud development not observed or not observable
+337,337,3/14/2010,0,Cloud development not observed or not observable
+338,338,3/28/2010,61,"Rain, not freezing, continuous"
+339,339,4/4/2010,55,"Drizzle, not freezing, continuous"
+340,340,4/18/2010,53,"Drizzle, not freezing, continuous"
+341,341,5/9/2010,51,"Drizzle, not freezing, continuous"
+342,342,5/16/2010,53,"Drizzle, not freezing, continuous"
+343,343,5/30/2010,1,Clouds generally dissolving or becoming less developed
+344,344,6/13/2010,3,Clouds generally forming or developing
+345,345,6/27/2010,0,Cloud development not observed or not observable
+346,346,7/11/2010,51,"Drizzle, not freezing, continuous"
+347,347,7/25/2010,3,Clouds generally forming or developing
+348,348,8/1/2010,51,"Drizzle, not freezing, continuous"
+349,349,8/29/2010,61,"Rain, not freezing, continuous"
+350,350,9/12/2010,1,Clouds generally dissolving or becoming less developed
+351,351,9/26/2010,65,"Rain, not freezing, continuous"
+352,352,10/10/2010,2,State of sky on the whole unchanged
+353,353,10/24/2010,61,"Rain, not freezing, continuous"
+354,354,11/7/2010,51,"Drizzle, not freezing, continuous"
+355,355,11/14/2010,51,"Drizzle, not freezing, continuous"
+356,356,3/26/1989,0,Cloud development not observed or not observable
+357,357,4/23/1989,2,State of sky on the whole unchanged
+358,358,5/7/1989,3,Clouds generally forming or developing
+359,359,5/28/1989,3,Clouds generally forming or developing
+360,360,6/4/1989,0,Cloud development not observed or not observable
+361,361,6/18/1989,61,"Rain, not freezing, continuous"
+362,362,7/9/1989,1,Clouds generally dissolving or becoming less developed
+363,363,7/16/1989,3,Clouds generally forming or developing
+364,364,7/30/1989,53,"Drizzle, not freezing, continuous"
+365,365,8/13/1989,51,"Drizzle, not freezing, continuous"
+366,366,8/27/1989,63,"Rain, not freezing, continuous"
+367,367,9/10/1989,2,State of sky on the whole unchanged
+368,368,9/24/1989,1,Clouds generally dissolving or becoming less developed
+369,369,10/1/1989,51,"Drizzle, not freezing, continuous"
+370,370,10/22/1989,53,"Drizzle, not freezing, continuous"
+371,371,11/5/1989,61,"Rain, not freezing, continuous"
+372,372,4/3/1988,61,"Rain, not freezing, continuous"
+373,373,5/1/1988,3,Clouds generally forming or developing
+374,374,5/15/1988,53,"Drizzle, not freezing, continuous"
+375,375,5/29/1988,53,"Drizzle, not freezing, continuous"
+376,376,6/12/1988,2,State of sky on the whole unchanged
+377,377,6/19/1988,3,Clouds generally forming or developing
+378,378,7/3/1988,53,"Drizzle, not freezing, continuous"
+379,379,7/10/1988,53,"Drizzle, not freezing, continuous"
+380,380,7/24/1988,53,"Drizzle, not freezing, continuous"
+381,381,8/7/1988,3,Clouds generally forming or developing
+382,382,8/28/1988,53,"Drizzle, not freezing, continuous"
+383,383,9/11/1988,1,Clouds generally dissolving or becoming less developed
+384,384,9/25/1988,1,Clouds generally dissolving or becoming less developed
+385,385,10/2/1988,1,Clouds generally dissolving or becoming less developed
+386,386,10/30/1988,1,Clouds generally dissolving or becoming less developed
+387,387,11/13/1988,53,"Drizzle, not freezing, continuous"
+388,388,4/12/1987,1,Clouds generally dissolving or becoming less developed
+389,389,5/3/1987,51,"Drizzle, not freezing, continuous"
+390,390,5/17/1987,3,Clouds generally forming or developing
+391,391,5/31/1987,51,"Drizzle, not freezing, continuous"
+392,392,6/21/1987,63,"Rain, not freezing, continuous"
+393,393,7/5/1987,63,"Rain, not freezing, continuous"
+394,394,7/12/1987,51,"Drizzle, not freezing, continuous"
+395,395,7/26/1987,51,"Drizzle, not freezing, continuous"
+396,396,8/9/1987,55,"Drizzle, not freezing, continuous"
+397,397,8/16/1987,3,Clouds generally forming or developing
+398,398,9/6/1987,63,"Rain, not freezing, continuous"
+399,399,9/20/1987,63,"Rain, not freezing, continuous"
+400,400,9/27/1987,51,"Drizzle, not freezing, continuous"
+401,401,10/18/1987,1,Clouds generally dissolving or becoming less developed
+402,402,11/1/1987,3,Clouds generally forming or developing
+403,403,11/15/1987,3,Clouds generally forming or developing
+404,404,3/23/1986,2,State of sky on the whole unchanged
+405,405,4/13/1986,1,Clouds generally dissolving or becoming less developed
+406,406,4/27/1986,61,"Rain, not freezing, continuous"
+407,407,5/11/1986,1,Clouds generally dissolving or becoming less developed
+408,408,5/25/1986,1,Clouds generally dissolving or becoming less developed
+409,409,6/15/1986,2,State of sky on the whole unchanged
+410,410,6/22/1986,51,"Drizzle, not freezing, continuous"
+411,411,7/6/1986,53,"Drizzle, not freezing, continuous"
+412,412,7/13/1986,51,"Drizzle, not freezing, continuous"
+413,413,7/27/1986,2,State of sky on the whole unchanged
+414,414,8/10/1986,1,Clouds generally dissolving or becoming less developed
+415,415,8/17/1986,51,"Drizzle, not freezing, continuous"
+416,416,9/7/1986,2,State of sky on the whole unchanged
+417,417,9/21/1986,51,"Drizzle, not freezing, continuous"
+418,418,10/12/1986,1,Clouds generally dissolving or becoming less developed
+419,419,10/26/1986,51,"Drizzle, not freezing, continuous"
+420,420,4/7/1985,53,"Drizzle, not freezing, continuous"
+421,421,4/21/1985,53,"Drizzle, not freezing, continuous"
+422,422,5/5/1985,55,"Drizzle, not freezing, continuous"
+423,423,5/19/1985,53,"Drizzle, not freezing, continuous"
+424,424,6/16/1985,53,"Drizzle, not freezing, continuous"
+425,425,6/23/1985,1,Clouds generally dissolving or becoming less developed
+426,426,7/7/1985,53,"Drizzle, not freezing, continuous"
+427,427,7/21/1985,51,"Drizzle, not freezing, continuous"
+428,428,8/4/1985,53,"Drizzle, not freezing, continuous"
+429,429,8/18/1985,63,"Rain, not freezing, continuous"
+430,430,8/25/1985,53,"Drizzle, not freezing, continuous"
+431,431,9/8/1985,1,Clouds generally dissolving or becoming less developed
+432,432,9/15/1985,63,"Rain, not freezing, continuous"
+433,433,10/6/1985,51,"Drizzle, not freezing, continuous"
+434,434,10/19/1985,51,"Drizzle, not freezing, continuous"
+435,435,11/3/1985,51,"Drizzle, not freezing, continuous"
+436,436,3/25/1984,0,Cloud development not observed or not observable
+437,437,4/7/1984,1,Clouds generally dissolving or becoming less developed
+438,438,4/29/1984,0,Cloud development not observed or not observable
+439,439,5/6/1984,3,Clouds generally forming or developing
+440,440,5/20/1984,55,"Drizzle, not freezing, continuous"
+441,441,6/3/1984,63,"Rain, not freezing, continuous"
+442,442,6/17/1984,2,State of sky on the whole unchanged
+443,443,6/24/1984,63,"Rain, not freezing, continuous"
+444,444,7/8/1984,51,"Drizzle, not freezing, continuous"
+445,445,7/22/1984,3,Clouds generally forming or developing
+446,446,8/5/1984,51,"Drizzle, not freezing, continuous"
+447,447,8/19/1984,3,Clouds generally forming or developing
+448,448,8/26/1984,3,Clouds generally forming or developing
+449,449,9/9/1984,1,Clouds generally dissolving or becoming less developed
+450,450,10/7/1984,3,Clouds generally forming or developing
+451,451,10/21/1984,0,Cloud development not observed or not observable
+452,452,3/13/1983,63,"Rain, not freezing, continuous"
+453,453,3/27/1983,2,State of sky on the whole unchanged
+454,454,4/17/1983,53,"Drizzle, not freezing, continuous"
+455,455,5/1/1983,3,Clouds generally forming or developing
+456,456,5/15/1983,61,"Rain, not freezing, continuous"
+457,457,5/22/1983,51,"Drizzle, not freezing, continuous"
+458,458,6/5/1983,51,"Drizzle, not freezing, continuous"
+459,459,6/12/1983,51,"Drizzle, not freezing, continuous"
+460,460,7/16/1983,51,"Drizzle, not freezing, continuous"
+461,461,8/7/1983,51,"Drizzle, not freezing, continuous"
+462,462,8/14/1983,3,Clouds generally forming or developing
+463,463,8/28/1983,51,"Drizzle, not freezing, continuous"
+464,464,9/11/1983,63,"Rain, not freezing, continuous"
+465,465,9/25/1983,3,Clouds generally forming or developing
+466,466,10/15/1983,0,Cloud development not observed or not observable
+467,467,1/23/1982,51,"Drizzle, not freezing, continuous"
+468,468,3/21/1982,51,"Drizzle, not freezing, continuous"
+469,469,4/4/1982,2,State of sky on the whole unchanged
+470,470,4/25/1982,2,State of sky on the whole unchanged
+471,471,5/9/1982,53,"Drizzle, not freezing, continuous"
+472,472,5/23/1982,51,"Drizzle, not freezing, continuous"
+473,473,6/6/1982,51,"Drizzle, not freezing, continuous"
+474,474,6/13/1982,51,"Drizzle, not freezing, continuous"
+475,475,7/3/1982,51,"Drizzle, not freezing, continuous"
+476,476,7/18/1982,1,Clouds generally dissolving or becoming less developed
+477,477,7/25/1982,0,Cloud development not observed or not observable
+478,478,8/8/1982,53,"Drizzle, not freezing, continuous"
+479,479,8/15/1982,3,Clouds generally forming or developing
+480,480,8/29/1982,0,Cloud development not observed or not observable
+481,481,9/12/1982,53,"Drizzle, not freezing, continuous"
+482,482,9/25/1982,2,State of sky on the whole unchanged
+483,483,3/15/1981,1,Clouds generally dissolving or becoming less developed
+484,484,3/29/1981,61,"Rain, not freezing, continuous"
+485,485,4/12/1981,3,Clouds generally forming or developing
+486,486,5/3/1981,53,"Drizzle, not freezing, continuous"
+487,487,5/17/1981,55,"Drizzle, not freezing, continuous"
+488,488,5/31/1981,1,Clouds generally dissolving or becoming less developed
+489,489,6/21/1981,1,Clouds generally dissolving or becoming less developed
+490,490,7/5/1981,3,Clouds generally forming or developing
+491,491,7/18/1981,51,"Drizzle, not freezing, continuous"
+492,492,8/2/1981,53,"Drizzle, not freezing, continuous"
+493,493,8/16/1981,53,"Drizzle, not freezing, continuous"
+494,494,8/30/1981,3,Clouds generally forming or developing
+495,495,9/13/1981,61,"Rain, not freezing, continuous"
+496,496,9/27/1981,61,"Rain, not freezing, continuous"
+497,497,10/17/1981,0,Cloud development not observed or not observable
+498,498,1/13/1980,0,Cloud development not observed or not observable
+499,499,1/27/1980,63,"Rain, not freezing, continuous"
+500,500,3/1/1980,3,Clouds generally forming or developing
+501,501,3/30/1980,1,Clouds generally dissolving or becoming less developed
+502,502,5/4/1980,53,"Drizzle, not freezing, continuous"
+503,503,5/18/1980,55,"Drizzle, not freezing, continuous"
+504,504,6/29/1980,3,Clouds generally forming or developing
+505,505,7/13/1980,61,"Rain, not freezing, continuous"
+506,506,8/10/1980,51,"Drizzle, not freezing, continuous"
+507,507,8/17/1980,51,"Drizzle, not freezing, continuous"
+508,508,8/31/1980,53,"Drizzle, not freezing, continuous"
+509,509,9/14/1980,51,"Drizzle, not freezing, continuous"
+510,510,9/28/1980,53,"Drizzle, not freezing, continuous"
+511,511,10/5/1980,3,Clouds generally forming or developing
+512,512,1/21/1979,0,Cloud development not observed or not observable
+513,513,2/4/1979,51,"Drizzle, not freezing, continuous"
+514,514,3/3/1979,53,"Drizzle, not freezing, continuous"
+515,515,4/8/1979,1,Clouds generally dissolving or becoming less developed
+516,516,4/29/1979,3,Clouds generally forming or developing
+517,517,5/13/1979,3,Clouds generally forming or developing
+518,518,5/27/1979,53,"Drizzle, not freezing, continuous"
+519,519,7/1/1979,3,Clouds generally forming or developing
+520,520,7/14/1979,3,Clouds generally forming or developing
+521,521,7/29/1979,61,"Rain, not freezing, continuous"
+522,522,8/12/1979,51,"Drizzle, not freezing, continuous"
+523,523,8/26/1979,61,"Rain, not freezing, continuous"
+524,524,9/9/1979,1,Clouds generally dissolving or becoming less developed
+525,525,9/30/1979,3,Clouds generally forming or developing
+526,526,10/7/1979,51,"Drizzle, not freezing, continuous"
+527,527,1/15/1978,1,Clouds generally dissolving or becoming less developed
+528,528,1/29/1978,0,Cloud development not observed or not observable
+529,529,3/4/1978,53,"Drizzle, not freezing, continuous"
+530,530,4/2/1978,51,"Drizzle, not freezing, continuous"
+531,531,5/7/1978,51,"Drizzle, not freezing, continuous"
+532,532,5/21/1978,3,Clouds generally forming or developing
+533,533,6/4/1978,3,Clouds generally forming or developing
+534,534,6/17/1978,0,Cloud development not observed or not observable
+535,535,7/2/1978,3,Clouds generally forming or developing
+536,536,7/16/1978,3,Clouds generally forming or developing
+537,537,7/30/1978,0,Cloud development not observed or not observable
+538,538,8/13/1978,61,"Rain, not freezing, continuous"
+539,539,8/27/1978,51,"Drizzle, not freezing, continuous"
+540,540,9/10/1978,2,State of sky on the whole unchanged
+541,541,10/1/1978,61,"Rain, not freezing, continuous"
+542,542,10/8/1978,51,"Drizzle, not freezing, continuous"
+543,543,1/9/1977,51,"Drizzle, not freezing, continuous"
+544,544,1/23/1977,51,"Drizzle, not freezing, continuous"
+545,545,3/5/1977,53,"Drizzle, not freezing, continuous"
+546,546,4/3/1977,1,Clouds generally dissolving or becoming less developed
+547,547,5/8/1977,2,State of sky on the whole unchanged
+548,548,5/22/1977,51,"Drizzle, not freezing, continuous"
+549,549,6/5/1977,53,"Drizzle, not freezing, continuous"
+550,550,6/19/1977,51,"Drizzle, not freezing, continuous"
+551,551,7/3/1977,2,State of sky on the whole unchanged
+552,552,7/16/1977,51,"Drizzle, not freezing, continuous"
+553,553,7/31/1977,61,"Rain, not freezing, continuous"
+554,554,8/14/1977,53,"Drizzle, not freezing, continuous"
+555,555,8/28/1977,51,"Drizzle, not freezing, continuous"
+556,556,9/11/1977,1,Clouds generally dissolving or becoming less developed
+557,557,10/2/1977,51,"Drizzle, not freezing, continuous"
+558,558,10/9/1977,61,"Rain, not freezing, continuous"
+559,559,10/23/1977,0,Cloud development not observed or not observable
+560,560,1/25/1976,53,"Drizzle, not freezing, continuous"
+561,561,3/6/1976,51,"Drizzle, not freezing, continuous"
+562,562,3/28/1976,0,Cloud development not observed or not observable
+563,563,5/2/1976,1,Clouds generally dissolving or becoming less developed
+564,564,5/16/1976,3,Clouds generally forming or developing
+565,565,5/30/1976,53,"Drizzle, not freezing, continuous"
+566,566,6/13/1976,61,"Rain, not freezing, continuous"
+567,567,7/4/1976,61,"Rain, not freezing, continuous"
+568,568,7/18/1976,3,Clouds generally forming or developing
+569,569,8/1/1976,51,"Drizzle, not freezing, continuous"
+570,570,8/15/1976,63,"Rain, not freezing, continuous"
+571,571,8/29/1976,51,"Drizzle, not freezing, continuous"
+572,572,9/12/1976,53,"Drizzle, not freezing, continuous"
+573,573,10/3/1976,0,Cloud development not observed or not observable
+574,574,10/10/1976,51,"Drizzle, not freezing, continuous"
+575,575,10/24/1976,55,"Drizzle, not freezing, continuous"
+576,576,1/12/1975,63,"Rain, not freezing, continuous"
+577,577,1/26/1975,61,"Rain, not freezing, continuous"
+578,578,3/1/1975,63,"Rain, not freezing, continuous"
+579,579,4/27/1975,0,Cloud development not observed or not observable
+580,580,5/11/1975,55,"Drizzle, not freezing, continuous"
+581,581,5/25/1975,51,"Drizzle, not freezing, continuous"
+582,582,6/8/1975,3,Clouds generally forming or developing
+583,583,6/22/1975,55,"Drizzle, not freezing, continuous"
+584,584,7/6/1975,1,Clouds generally dissolving or becoming less developed
+585,585,7/19/1975,53,"Drizzle, not freezing, continuous"
+586,586,8/3/1975,0,Cloud development not observed or not observable
+587,587,8/17/1975,63,"Rain, not freezing, continuous"
+588,588,9/7/1975,61,"Rain, not freezing, continuous"
+589,589,10/5/1975,2,State of sky on the whole unchanged
+590,590,1/13/1974,51,"Drizzle, not freezing, continuous"
+591,591,1/27/1974,55,"Drizzle, not freezing, continuous"
+592,592,3/30/1974,51,"Drizzle, not freezing, continuous"
+593,593,4/28/1974,53,"Drizzle, not freezing, continuous"
+594,594,5/12/1974,3,Clouds generally forming or developing
+595,595,5/26/1974,1,Clouds generally dissolving or becoming less developed
+596,596,6/9/1974,3,Clouds generally forming or developing
+597,597,6/23/1974,0,Cloud development not observed or not observable
+598,598,7/7/1974,3,Clouds generally forming or developing
+599,599,7/20/1974,51,"Drizzle, not freezing, continuous"
+600,600,8/4/1974,63,"Rain, not freezing, continuous"
+601,601,8/18/1974,0,Cloud development not observed or not observable
+602,602,9/8/1974,1,Clouds generally dissolving or becoming less developed
+603,603,9/22/1974,51,"Drizzle, not freezing, continuous"
+604,604,10/6/1974,1,Clouds generally dissolving or becoming less developed
+605,605,1/28/1973,2,State of sky on the whole unchanged
+606,606,2/11/1973,1,Clouds generally dissolving or becoming less developed
+607,607,3/3/1973,63,"Rain, not freezing, continuous"
+608,608,4/29/1973,1,Clouds generally dissolving or becoming less developed
+609,609,5/20/1973,61,"Rain, not freezing, continuous"
+610,610,6/3/1973,2,State of sky on the whole unchanged
+611,611,6/17/1973,1,Clouds generally dissolving or becoming less developed
+612,612,7/1/1973,0,Cloud development not observed or not observable
+613,613,7/14/1973,61,"Rain, not freezing, continuous"
+614,614,7/29/1973,3,Clouds generally forming or developing
+615,615,8/5/1973,3,Clouds generally forming or developing
+616,616,8/19/1973,1,Clouds generally dissolving or becoming less developed
+617,617,9/9/1973,1,Clouds generally dissolving or becoming less developed
+618,618,9/23/1973,61,"Rain, not freezing, continuous"
+619,619,10/7/1973,53,"Drizzle, not freezing, continuous"
+620,620,1/23/1972,1,Clouds generally dissolving or becoming less developed
+621,621,3/4/1972,63,"Rain, not freezing, continuous"
+622,622,5/1/1972,61,"Rain, not freezing, continuous"
+623,623,5/14/1972,71,Continuous fall of snowflakes
+624,624,6/4/1972,61,"Rain, not freezing, continuous"
+625,625,7/2/1972,51,"Drizzle, not freezing, continuous"
+626,626,7/15/1972,3,Clouds generally forming or developing
+627,627,7/30/1972,51,"Drizzle, not freezing, continuous"
+628,628,8/13/1972,3,Clouds generally forming or developing
+629,629,9/10/1972,63,"Rain, not freezing, continuous"
+630,630,9/24/1972,61,"Rain, not freezing, continuous"
+631,631,10/8/1972,53,"Drizzle, not freezing, continuous"
+632,632,3/6/1971,51,"Drizzle, not freezing, continuous"
+633,633,4/18/1971,3,Clouds generally forming or developing
+634,634,5/23/1971,63,"Rain, not freezing, continuous"
+635,635,6/20/1971,53,"Drizzle, not freezing, continuous"
+636,636,7/4/1971,51,"Drizzle, not freezing, continuous"
+637,637,7/17/1971,3,Clouds generally forming or developing
+638,638,8/1/1971,3,Clouds generally forming or developing
+639,639,8/15/1971,1,Clouds generally dissolving or becoming less developed
+640,640,9/5/1971,1,Clouds generally dissolving or becoming less developed
+641,641,9/19/1971,61,"Rain, not freezing, continuous"
+642,642,10/3/1971,3,Clouds generally forming or developing
+643,643,3/7/1970,61,"Rain, not freezing, continuous"
+644,644,4/19/1970,2,State of sky on the whole unchanged
+645,645,5/10/1970,61,"Rain, not freezing, continuous"
+646,646,6/7/1970,51,"Drizzle, not freezing, continuous"
+647,647,6/21/1970,51,"Drizzle, not freezing, continuous"
+648,648,7/5/1970,1,Clouds generally dissolving or becoming less developed
+649,649,7/18/1970,3,Clouds generally forming or developing
+650,650,8/2/1970,51,"Drizzle, not freezing, continuous"
+651,651,8/16/1970,51,"Drizzle, not freezing, continuous"
+652,652,9/6/1970,0,Cloud development not observed or not observable
+653,653,9/20/1970,1,Clouds generally dissolving or becoming less developed
+654,654,10/4/1970,51,"Drizzle, not freezing, continuous"
+655,655,10/25/1970,1,Clouds generally dissolving or becoming less developed
+656,656,3/1/1969,55,"Drizzle, not freezing, continuous"
+657,657,5/4/1969,51,"Drizzle, not freezing, continuous"
+658,658,5/18/1969,51,"Drizzle, not freezing, continuous"
+659,659,6/21/1969,51,"Drizzle, not freezing, continuous"
+660,660,7/6/1969,55,"Drizzle, not freezing, continuous"
+661,661,7/19/1969,51,"Drizzle, not freezing, continuous"
+662,662,8/3/1969,3,Clouds generally forming or developing
+663,663,9/7/1969,51,"Drizzle, not freezing, continuous"
+664,664,9/20/1969,3,Clouds generally forming or developing
+665,665,10/5/1969,0,Cloud development not observed or not observable
+666,666,10/19/1969,2,State of sky on the whole unchanged
+667,667,1/1/1968,53,"Drizzle, not freezing, continuous"
+668,668,5/12/1968,0,Cloud development not observed or not observable
+669,669,5/26/1968,51,"Drizzle, not freezing, continuous"
+670,670,6/9/1968,51,"Drizzle, not freezing, continuous"
+671,671,6/23/1968,53,"Drizzle, not freezing, continuous"
+672,672,7/7/1968,61,"Rain, not freezing, continuous"
+673,673,7/20/1968,51,"Drizzle, not freezing, continuous"
+674,674,8/4/1968,63,"Rain, not freezing, continuous"
+675,675,9/8/1968,1,Clouds generally dissolving or becoming less developed
+676,676,9/22/1968,51,"Drizzle, not freezing, continuous"
+677,677,10/6/1968,51,"Drizzle, not freezing, continuous"
+678,678,11/3/1968,1,Clouds generally dissolving or becoming less developed
+679,679,1/2/1967,53,"Drizzle, not freezing, continuous"
+680,680,5/7/1967,2,State of sky on the whole unchanged
+681,681,6/4/1967,51,"Drizzle, not freezing, continuous"
+682,682,6/18/1967,3,Clouds generally forming or developing
+683,683,7/2/1967,61,"Rain, not freezing, continuous"
+684,684,7/15/1967,51,"Drizzle, not freezing, continuous"
+685,685,8/6/1967,2,State of sky on the whole unchanged
+686,686,8/27/1967,63,"Rain, not freezing, continuous"
+687,687,9/10/1967,51,"Drizzle, not freezing, continuous"
+688,688,10/1/1967,51,"Drizzle, not freezing, continuous"
+689,689,10/22/1967,3,Clouds generally forming or developing
+690,690,5/22/1966,3,Clouds generally forming or developing
+691,691,6/12/1966,63,"Rain, not freezing, continuous"
+692,692,7/3/1966,61,"Rain, not freezing, continuous"
+693,693,7/16/1966,55,"Drizzle, not freezing, continuous"
+694,694,7/24/1966,53,"Drizzle, not freezing, continuous"
+695,695,8/7/1966,53,"Drizzle, not freezing, continuous"
+696,696,9/4/1966,51,"Drizzle, not freezing, continuous"
+697,697,10/2/1966,3,Clouds generally forming or developing
+698,698,10/23/1966,1,Clouds generally dissolving or becoming less developed
+699,699,1/1/1965,51,"Drizzle, not freezing, continuous"
+700,700,5/30/1965,51,"Drizzle, not freezing, continuous"
+701,701,6/13/1965,61,"Rain, not freezing, continuous"
+702,702,6/27/1965,63,"Rain, not freezing, continuous"
+703,703,7/10/1965,51,"Drizzle, not freezing, continuous"
+704,704,7/18/1965,3,Clouds generally forming or developing
+705,705,8/1/1965,51,"Drizzle, not freezing, continuous"
+706,706,9/12/1965,55,"Drizzle, not freezing, continuous"
+707,707,10/3/1965,51,"Drizzle, not freezing, continuous"
+708,708,10/24/1965,0,Cloud development not observed or not observable
+709,709,5/10/1964,3,Clouds generally forming or developing
+710,710,5/24/1964,2,State of sky on the whole unchanged
+711,711,6/14/1964,61,"Rain, not freezing, continuous"
+712,712,6/28/1964,3,Clouds generally forming or developing
+713,713,7/11/1964,61,"Rain, not freezing, continuous"
+714,714,8/2/1964,51,"Drizzle, not freezing, continuous"
+715,715,8/23/1964,61,"Rain, not freezing, continuous"
+716,716,9/6/1964,61,"Rain, not freezing, continuous"
+717,717,10/4/1964,3,Clouds generally forming or developing
+718,718,10/25/1964,0,Cloud development not observed or not observable
+719,719,5/26/1963,53,"Drizzle, not freezing, continuous"
+720,720,6/9/1963,61,"Rain, not freezing, continuous"
+721,721,6/23/1963,51,"Drizzle, not freezing, continuous"
+722,722,6/30/1963,51,"Drizzle, not freezing, continuous"
+723,723,7/20/1963,51,"Drizzle, not freezing, continuous"
+724,724,8/4/1963,61,"Rain, not freezing, continuous"
+725,725,9/8/1963,2,State of sky on the whole unchanged
+726,726,10/6/1963,1,Clouds generally dissolving or becoming less developed
+727,727,10/27/1963,61,"Rain, not freezing, continuous"
+728,728,12/28/1963,2,State of sky on the whole unchanged
+729,729,5/20/1962,51,"Drizzle, not freezing, continuous"
+730,730,6/3/1962,55,"Drizzle, not freezing, continuous"
+731,731,6/17/1962,51,"Drizzle, not freezing, continuous"
+732,732,7/8/1962,51,"Drizzle, not freezing, continuous"
+733,733,7/21/1962,53,"Drizzle, not freezing, continuous"
+734,734,8/5/1962,63,"Rain, not freezing, continuous"
+735,735,9/16/1962,55,"Drizzle, not freezing, continuous"
+736,736,10/7/1962,3,Clouds generally forming or developing
+737,737,12/29/1962,51,"Drizzle, not freezing, continuous"
+738,738,5/14/1961,3,Clouds generally forming or developing
+739,739,5/22/1961,2,State of sky on the whole unchanged
+740,740,6/18/1961,53,"Drizzle, not freezing, continuous"
+741,741,7/2/1961,0,Cloud development not observed or not observable
+742,742,7/15/1961,61,"Rain, not freezing, continuous"
+743,743,8/6/1961,53,"Drizzle, not freezing, continuous"
+744,744,9/10/1961,0,Cloud development not observed or not observable
+745,745,10/8/1961,3,Clouds generally forming or developing
+746,746,2/7/1960,0,Cloud development not observed or not observable
+747,747,5/29/1960,53,"Drizzle, not freezing, continuous"
+748,748,5/30/1960,61,"Rain, not freezing, continuous"
+749,749,6/6/1960,61,"Rain, not freezing, continuous"
+750,750,6/19/1960,51,"Drizzle, not freezing, continuous"
+751,751,7/3/1960,51,"Drizzle, not freezing, continuous"
+752,752,7/16/1960,51,"Drizzle, not freezing, continuous"
+753,753,8/14/1960,3,Clouds generally forming or developing
+754,754,9/4/1960,63,"Rain, not freezing, continuous"
+755,755,11/20/1960,0,Cloud development not observed or not observable
+756,756,5/10/1959,51,"Drizzle, not freezing, continuous"
+757,757,5/30/1959,61,"Rain, not freezing, continuous"
+758,758,5/31/1959,3,Clouds generally forming or developing
+759,759,7/5/1959,0,Cloud development not observed or not observable
+760,760,7/18/1959,53,"Drizzle, not freezing, continuous"
+761,761,8/2/1959,53,"Drizzle, not freezing, continuous"
+762,762,8/23/1959,0,Cloud development not observed or not observable
+763,763,9/13/1959,3,Clouds generally forming or developing
+764,764,12/12/1959,51,"Drizzle, not freezing, continuous"
+765,765,1/19/1958,0,Cloud development not observed or not observable
+766,766,5/18/1958,0,Cloud development not observed or not observable
+767,767,5/26/1958,63,"Rain, not freezing, continuous"
+768,768,5/30/1958,1,Clouds generally dissolving or becoming less developed
+769,769,6/15/1958,1,Clouds generally dissolving or becoming less developed
+770,770,7/6/1958,51,"Drizzle, not freezing, continuous"
+771,771,7/19/1958,3,Clouds generally forming or developing
+772,772,8/3/1958,3,Clouds generally forming or developing
+773,773,8/24/1958,3,Clouds generally forming or developing
+774,774,9/7/1958,3,Clouds generally forming or developing
+775,775,10/19/1958,1,Clouds generally dissolving or becoming less developed
+776,776,1/13/1957,51,"Drizzle, not freezing, continuous"
+777,777,5/19/1957,53,"Drizzle, not freezing, continuous"
+778,778,5/30/1957,51,"Drizzle, not freezing, continuous"
+779,779,7/7/1957,53,"Drizzle, not freezing, continuous"
+780,780,7/20/1957,61,"Rain, not freezing, continuous"
+781,781,8/4/1957,0,Cloud development not observed or not observable
+782,782,8/18/1957,0,Cloud development not observed or not observable
+783,783,9/8/1957,0,Cloud development not observed or not observable
+784,784,1/22/1956,53,"Drizzle, not freezing, continuous"
+785,785,5/13/1956,51,"Drizzle, not freezing, continuous"
+786,786,5/30/1956,2,State of sky on the whole unchanged
+787,787,6/3/1956,51,"Drizzle, not freezing, continuous"
+788,788,7/1/1956,55,"Drizzle, not freezing, continuous"
+789,789,7/14/1956,51,"Drizzle, not freezing, continuous"
+790,790,8/5/1956,61,"Rain, not freezing, continuous"
+791,791,9/2/1956,53,"Drizzle, not freezing, continuous"
+792,792,1/16/1955,1,Clouds generally dissolving or becoming less developed
+793,793,5/22/1955,0,Cloud development not observed or not observable
+794,794,5/30/1955,51,"Drizzle, not freezing, continuous"
+795,795,6/5/1955,3,Clouds generally forming or developing
+796,796,6/19/1955,61,"Rain, not freezing, continuous"
+797,797,7/16/1955,2,State of sky on the whole unchanged
+798,798,9/11/1955,61,"Rain, not freezing, continuous"
+799,799,1/17/1954,1,Clouds generally dissolving or becoming less developed
+800,800,5/31/1954,53,"Drizzle, not freezing, continuous"
+801,801,6/20/1954,55,"Drizzle, not freezing, continuous"
+802,802,7/4/1954,53,"Drizzle, not freezing, continuous"
+803,803,7/17/1954,61,"Rain, not freezing, continuous"
+804,804,8/1/1954,51,"Drizzle, not freezing, continuous"
+805,805,8/22/1954,63,"Rain, not freezing, continuous"
+806,806,9/5/1954,51,"Drizzle, not freezing, continuous"
+807,807,10/24/1954,3,Clouds generally forming or developing
+808,808,1/18/1953,3,Clouds generally forming or developing
+809,809,5/30/1953,2,State of sky on the whole unchanged
+810,810,6/7/1953,3,Clouds generally forming or developing
+811,811,6/21/1953,51,"Drizzle, not freezing, continuous"
+812,812,7/5/1953,3,Clouds generally forming or developing
+813,813,7/18/1953,63,"Rain, not freezing, continuous"
+814,814,8/2/1953,51,"Drizzle, not freezing, continuous"
+815,815,8/23/1953,51,"Drizzle, not freezing, continuous"
+816,816,9/13/1953,0,Cloud development not observed or not observable
+817,817,5/18/1952,1,Clouds generally dissolving or becoming less developed
+818,818,5/30/1952,1,Clouds generally dissolving or becoming less developed
+819,819,6/22/1952,53,"Drizzle, not freezing, continuous"
+820,820,7/6/1952,61,"Rain, not freezing, continuous"
+821,821,7/19/1952,51,"Drizzle, not freezing, continuous"
+822,822,8/3/1952,2,State of sky on the whole unchanged
+823,823,8/17/1952,53,"Drizzle, not freezing, continuous"
+824,824,9/7/1952,61,"Rain, not freezing, continuous"
+825,825,5/27/1951,63,"Rain, not freezing, continuous"
+826,826,5/30/1951,2,State of sky on the whole unchanged
+827,827,6/17/1951,63,"Rain, not freezing, continuous"
+828,828,7/1/1951,0,Cloud development not observed or not observable
+829,829,7/14/1951,51,"Drizzle, not freezing, continuous"
+830,830,7/29/1951,3,Clouds generally forming or developing
+831,831,9/16/1951,3,Clouds generally forming or developing
+832,832,10/28/1951,1,Clouds generally dissolving or becoming less developed
+833,833,5/13/1950,1,Clouds generally dissolving or becoming less developed
+834,834,5/21/1950,2,State of sky on the whole unchanged
+835,835,5/30/1950,61,"Rain, not freezing, continuous"
+836,836,6/4/1950,0,Cloud development not observed or not observable
+837,837,6/18/1950,3,Clouds generally forming or developing
+838,838,7/2/1950,51,"Drizzle, not freezing, continuous"
+839,839,9/3/1950,3,Clouds generally forming or developing
+840,841,3/27/2011,3,Clouds generally forming or developing
+841,842,4/10/2011,65,"Rain, not freezing, continuous"
+842,843,4/17/2011,1,Clouds generally dissolving or becoming less developed
+843,844,5/8/2011,2,State of sky on the whole unchanged
+844,845,5/22/2011,1,Clouds generally dissolving or becoming less developed
+845,846,5/29/2011,0,Cloud development not observed or not observable
+846,847,6/12/2011,63,"Rain, not freezing, continuous"
+847,848,6/26/2011,2,State of sky on the whole unchanged
+848,849,7/10/2011,51,"Drizzle, not freezing, continuous"
+849,850,7/24/2011,55,"Drizzle, not freezing, continuous"
+850,851,7/31/2011,53,"Drizzle, not freezing, continuous"
+851,852,8/28/2011,51,"Drizzle, not freezing, continuous"
+852,853,9/11/2011,51,"Drizzle, not freezing, continuous"
+853,854,9/25/2011,61,"Rain, not freezing, continuous"
+854,855,10/9/2011,1,Clouds generally dissolving or becoming less developed
+855,856,10/16/2011,51,"Drizzle, not freezing, continuous"
+856,857,10/30/2011,0,Cloud development not observed or not observable
+857,858,11/13/2011,1,Clouds generally dissolving or becoming less developed
+858,859,11/27/2011,63,"Rain, not freezing, continuous"
+859,860,3/18/2012,3,Clouds generally forming or developing
+860,861,3/25/2012,63,"Rain, not freezing, continuous"
+861,862,4/15/2012,3,Clouds generally forming or developing
+862,863,4/22/2012,1,Clouds generally dissolving or becoming less developed
+863,864,5/13/2012,53,"Drizzle, not freezing, continuous"
+864,865,5/27/2012,55,"Drizzle, not freezing, continuous"
+865,866,6/10/2012,2,State of sky on the whole unchanged
+866,867,6/24/2012,0,Cloud development not observed or not observable
+867,868,7/8/2012,61,"Rain, not freezing, continuous"
+868,869,7/22/2012,2,State of sky on the whole unchanged
+869,870,7/29/2012,63,"Rain, not freezing, continuous"
+870,871,9/2/2012,3,Clouds generally forming or developing
+871,872,9/9/2012,1,Clouds generally dissolving or becoming less developed
+872,873,9/23/2012,61,"Rain, not freezing, continuous"
+873,874,10/7/2012,1,Clouds generally dissolving or becoming less developed
+874,875,10/14/2012,3,Clouds generally forming or developing
+875,876,10/28/2012,0,Cloud development not observed or not observable
+876,877,11/4/2012,1,Clouds generally dissolving or becoming less developed
+877,878,11/18/2012,0,Cloud development not observed or not observable
+878,879,11/25/2012,55,"Drizzle, not freezing, continuous"
+879,880,3/17/2013,51,"Drizzle, not freezing, continuous"
+880,881,3/24/2013,63,"Rain, not freezing, continuous"
+881,882,4/14/2013,1,Clouds generally dissolving or becoming less developed
+882,883,4/21/2013,1,Clouds generally dissolving or becoming less developed
+883,884,5/12/2013,51,"Drizzle, not freezing, continuous"
+884,885,5/26/2013,1,Clouds generally dissolving or becoming less developed
+885,886,6/9/2013,51,"Drizzle, not freezing, continuous"
+886,887,6/30/2013,2,State of sky on the whole unchanged
+887,888,7/7/2013,0,Cloud development not observed or not observable
+888,890,7/28/2013,0,Cloud development not observed or not observable
+889,891,8/25/2013,53,"Drizzle, not freezing, continuous"
+890,892,9/8/2013,61,"Rain, not freezing, continuous"
+891,893,9/22/2013,55,"Drizzle, not freezing, continuous"
+892,894,10/6/2013,51,"Drizzle, not freezing, continuous"
+893,895,10/13/2013,0,Cloud development not observed or not observable
+894,896,10/27/2013,0,Cloud development not observed or not observable
+895,897,11/3/2013,1,Clouds generally dissolving or becoming less developed
+896,898,11/17/2013,3,Clouds generally forming or developing
+897,899,11/24/2013,63,"Rain, not freezing, continuous"
+898,900,3/16/2014,53,"Drizzle, not freezing, continuous"
+899,901,3/30/2014,53,"Drizzle, not freezing, continuous"
+900,902,4/6/2014,0,Cloud development not observed or not observable
+901,903,4/20/2014,53,"Drizzle, not freezing, continuous"
+902,904,5/11/2014,3,Clouds generally forming or developing
+903,905,5/25/2014,51,"Drizzle, not freezing, continuous"
+904,906,6/8/2014,1,Clouds generally dissolving or becoming less developed
+905,907,6/22/2014,51,"Drizzle, not freezing, continuous"
+906,908,7/6/2014,3,Clouds generally forming or developing
+907,909,7/20/2014,55,"Drizzle, not freezing, continuous"
+908,910,7/27/2014,63,"Rain, not freezing, continuous"
+909,911,8/24/2014,51,"Drizzle, not freezing, continuous"
+910,912,9/7/2014,1,Clouds generally dissolving or becoming less developed
+911,913,9/21/2014,53,"Drizzle, not freezing, continuous"
+912,914,10/5/2014,65,"Rain, not freezing, continuous"
+913,915,10/12/2014,0,Cloud development not observed or not observable
+914,916,11/2/2014,1,Clouds generally dissolving or becoming less developed
+915,917,11/9/2014,51,"Drizzle, not freezing, continuous"
+916,918,11/23/2014,3,Clouds generally forming or developing
+917,931,5/24/2015,51,"Drizzle, not freezing, continuous"
+918,932,6/7/2015,2,State of sky on the whole unchanged
+919,929,4/19/2015,0,Cloud development not observed or not observable
+920,930,5/10/2015,1,Clouds generally dissolving or becoming less developed
+921,928,4/12/2015,3,Clouds generally forming or developing
+922,926,3/15/2015,3,Clouds generally forming or developing
+923,927,3/29/2015,61,"Rain, not freezing, continuous"
+924,933,6/21/2015,51,"Drizzle, not freezing, continuous"
+925,934,7/5/2015,51,"Drizzle, not freezing, continuous"
+926,936,7/26/2015,3,Clouds generally forming or developing
+927,937,8/23/2015,63,"Rain, not freezing, continuous"
+928,938,9/6/2015,0,Cloud development not observed or not observable
+929,939,9/20/2015,53,"Drizzle, not freezing, continuous"
+930,940,9/27/2015,2,State of sky on the whole unchanged
+931,941,10/11/2015,55,"Drizzle, not freezing, continuous"
+932,942,10/25/2015,63,"Rain, not freezing, continuous"
+933,943,11/1/2015,61,"Rain, not freezing, continuous"
+934,944,11/15/2015,51,"Drizzle, not freezing, continuous"
+935,945,11/29/2015,1,Clouds generally dissolving or becoming less developed
+936,948,3/20/2016,2,State of sky on the whole unchanged
+937,949,4/3/2016,1,Clouds generally dissolving or becoming less developed
+938,950,4/17/2016,61,"Rain, not freezing, continuous"
+939,951,5/1/2016,51,"Drizzle, not freezing, continuous"
+940,952,5/15/2016,3,Clouds generally forming or developing
+941,953,5/29/2016,63,"Rain, not freezing, continuous"
+942,954,6/12/2016,53,"Drizzle, not freezing, continuous"
+943,955,6/19/2016,2,State of sky on the whole unchanged
+944,956,7/3/2016,51,"Drizzle, not freezing, continuous"
+945,957,7/10/2016,53,"Drizzle, not freezing, continuous"
+946,958,7/24/2016,51,"Drizzle, not freezing, continuous"
+947,959,7/31/2016,53,"Drizzle, not freezing, continuous"
+948,960,8/28/2016,51,"Drizzle, not freezing, continuous"
+949,961,9/4/2016,2,State of sky on the whole unchanged
+950,962,9/18/2016,63,"Rain, not freezing, continuous"
+951,963,10/2/2016,3,Clouds generally forming or developing
+952,964,10/9/2016,51,"Drizzle, not freezing, continuous"
+953,965,10/23/2016,2,State of sky on the whole unchanged
+954,966,10/30/2016,51,"Drizzle, not freezing, continuous"
+955,967,11/13/2016,55,"Drizzle, not freezing, continuous"
+956,968,11/27/2016,0,Cloud development not observed or not observable
+957,969,3/26/2017,3,Clouds generally forming or developing
+958,970,4/9/2017,63,"Rain, not freezing, continuous"
+959,971,4/16/2017,1,Clouds generally dissolving or becoming less developed
+960,972,4/30/2017,0,Cloud development not observed or not observable
+961,973,5/14/2017,51,"Drizzle, not freezing, continuous"
+962,974,5/28/2017,0,Cloud development not observed or not observable
+963,975,6/11/2017,51,"Drizzle, not freezing, continuous"
+964,976,6/25/2017,2,State of sky on the whole unchanged
+965,977,7/9/2017,51,"Drizzle, not freezing, continuous"
+966,978,7/16/2017,53,"Drizzle, not freezing, continuous"
+967,979,7/30/2017,1,Clouds generally dissolving or becoming less developed
+968,980,8/27/2017,51,"Drizzle, not freezing, continuous"
+969,981,9/3/2017,2,State of sky on the whole unchanged
+970,982,9/17/2017,63,"Rain, not freezing, continuous"
+971,983,10/1/2017,65,"Rain, not freezing, continuous"
+972,984,10/8/2017,61,"Rain, not freezing, continuous"
+973,985,10/22/2017,65,"Rain, not freezing, continuous"
+974,986,10/29/2017,51,"Drizzle, not freezing, continuous"
+975,987,11/12/2017,3,Clouds generally forming or developing
+976,988,11/26/2017,3,Clouds generally forming or developing
+977,989,3/25/2018,61,"Rain, not freezing, continuous"
+978,990,4/8/2018,2,State of sky on the whole unchanged
+979,991,4/15/2018,2,State of sky on the whole unchanged
+980,992,4/29/2018,51,"Drizzle, not freezing, continuous"
+981,993,5/13/2018,63,"Rain, not freezing, continuous"
+982,994,5/27/2018,51,"Drizzle, not freezing, continuous"
+983,995,6/10/2018,1,Clouds generally dissolving or becoming less developed
+984,996,6/24/2018,3,Clouds generally forming or developing
+985,997,7/1/2018,3,Clouds generally forming or developing
+986,998,7/8/2018,1,Clouds generally dissolving or becoming less developed
+987,999,7/22/2018,61,"Rain, not freezing, continuous"
+988,1000,7/29/2018,1,Clouds generally dissolving or becoming less developed
+989,1001,8/26/2018,61,"Rain, not freezing, continuous"
+990,1002,9/2/2018,53,"Drizzle, not freezing, continuous"
+991,1003,9/16/2018,53,"Drizzle, not freezing, continuous"
+992,1004,9/30/2018,3,Clouds generally forming or developing
+993,1005,10/7/2018,0,Cloud development not observed or not observable
+994,1006,10/21/2018,3,Clouds generally forming or developing
+995,1007,10/28/2018,53,"Drizzle, not freezing, continuous"
+996,1008,11/11/2018,51,"Drizzle, not freezing, continuous"
+997,1009,11/25/2018,51,"Drizzle, not freezing, continuous"
+998,1010,3/17/2019,3,Clouds generally forming or developing
+999,1011,3/31/2019,2,State of sky on the whole unchanged
+1000,1012,4/14/2019,3,Clouds generally forming or developing
+1001,1013,4/28/2019,1,Clouds generally dissolving or becoming less developed
+1002,1014,5/12/2019,1,Clouds generally dissolving or becoming less developed
+1003,1015,5/26/2019,51,"Drizzle, not freezing, continuous"
+1004,1016,6/9/2019,3,Clouds generally forming or developing
+1005,1017,6/23/2019,1,Clouds generally dissolving or becoming less developed
+1006,1018,6/30/2019,1,Clouds generally dissolving or becoming less developed
+1007,1019,7/14/2019,51,"Drizzle, not freezing, continuous"
+1008,1020,7/28/2019,63,"Rain, not freezing, continuous"
+1009,1021,8/4/2019,51,"Drizzle, not freezing, continuous"
+1010,1022,9/1/2019,51,"Drizzle, not freezing, continuous"
+1011,1023,9/8/2019,65,"Rain, not freezing, continuous"
+1012,1024,9/22/2019,1,Clouds generally dissolving or becoming less developed
+1013,1025,9/29/2019,51,"Drizzle, not freezing, continuous"
+1014,1026,10/13/2019,61,"Rain, not freezing, continuous"
+1015,1027,10/27/2019,63,"Rain, not freezing, continuous"
+1016,1028,11/3/2019,2,State of sky on the whole unchanged
+1017,1029,11/17/2019,2,State of sky on the whole unchanged
+1018,1030,12/1/2019,1,Clouds generally dissolving or becoming less developed
+1019,1031,7/5/2020,1,Clouds generally dissolving or becoming less developed
+1020,1032,7/12/2020,2,State of sky on the whole unchanged
+1021,1033,7/19/2020,61,"Rain, not freezing, continuous"
+1022,1034,8/2/2020,51,"Drizzle, not freezing, continuous"
+1023,1035,8/9/2020,3,Clouds generally forming or developing
+1024,1036,8/16/2020,53,"Drizzle, not freezing, continuous"
+1025,1037,8/30/2020,63,"Rain, not freezing, continuous"
+1026,1038,9/6/2020,63,"Rain, not freezing, continuous"
+1027,1039,9/13/2020,0,Cloud development not observed or not observable
+1028,1040,9/27/2020,0,Cloud development not observed or not observable
+1029,1041,10/11/2020,51,"Drizzle, not freezing, continuous"
+1030,1042,10/25/2020,61,"Rain, not freezing, continuous"
+1031,1043,11/1/2020,3,Clouds generally forming or developing
+1032,1044,11/15/2020,51,"Drizzle, not freezing, continuous"
+1033,1045,11/29/2020,51,"Drizzle, not freezing, continuous"
+1034,1046,12/6/2020,2,State of sky on the whole unchanged
+1035,1047,12/13/2020,3,Clouds generally forming or developing
+1036,1053,4/18/2021,51,"Drizzle, not freezing, continuous"
+1037,1074,3/20/2022,0,Cloud development not observed or not observable
+1038,1052,3/28/2021,0,Cloud development not observed or not observable
+1039,1051,11/21/2021,0,Cloud development not observed or not observable
+1040,1054,5/2/2021,1,Clouds generally dissolving or becoming less developed
+1041,1055,5/9/2021,55,"Drizzle, not freezing, continuous"
+1042,1056,5/23/2021,3,Clouds generally forming or developing
+1043,1057,6/6/2021,1,Clouds generally dissolving or becoming less developed
+1044,1058,6/27/2021,61,"Rain, not freezing, continuous"
+1045,1059,6/20/2021,53,"Drizzle, not freezing, continuous"
+1046,1060,7/4/2021,53,"Drizzle, not freezing, continuous"
+1047,1061,7/18/2021,1,Clouds generally dissolving or becoming less developed
+1048,1062,8/1/2021,53,"Drizzle, not freezing, continuous"
+1049,1063,8/29/2021,53,"Drizzle, not freezing, continuous"
+1050,1064,9/5/2021,0,Cloud development not observed or not observable
+1051,1065,9/12/2021,1,Clouds generally dissolving or becoming less developed
+1052,1066,9/26/2021,51,"Drizzle, not freezing, continuous"
+1053,1067,10/10/2021,51,"Drizzle, not freezing, continuous"
+1054,1069,10/24/2021,51,"Drizzle, not freezing, continuous"
+1055,1070,11/7/2021,3,Clouds generally forming or developing
+1056,1071,11/14/2021,2,State of sky on the whole unchanged
+1057,1072,12/5/2021,1,Clouds generally dissolving or becoming less developed
+1058,1073,12/12/2021,3,Clouds generally forming or developing
+1059,1075,3/27/2022,0,Cloud development not observed or not observable
+1060,1076,4/10/2022,53,"Drizzle, not freezing, continuous"
+1061,1077,4/24/2022,55,"Drizzle, not freezing, continuous"
+1062,1078,5/8/2022,63,"Rain, not freezing, continuous"
+1063,1079,5/22/2022,1,Clouds generally dissolving or becoming less developed
+1064,1080,5/29/2022,61,"Rain, not freezing, continuous"
+1065,1081,6/12/2022,1,Clouds generally dissolving or becoming less developed
+1066,1082,6/19/2022,3,Clouds generally forming or developing
+1067,1083,7/3/2022,51,"Drizzle, not freezing, continuous"
+1068,1084,7/10/2022,53,"Drizzle, not freezing, continuous"
+1069,1085,7/24/2022,0,Cloud development not observed or not observable
+1070,1086,7/31/2022,61,"Rain, not freezing, continuous"
+1071,1087,8/28/2022,51,"Drizzle, not freezing, continuous"
+1072,1088,9/4/2022,51,"Drizzle, not freezing, continuous"
+1073,1089,9/11/2022,0,Cloud development not observed or not observable
+1074,1091,10/2/2022,61,"Rain, not freezing, continuous"
+1075,1092,10/9/2022,63,"Rain, not freezing, continuous"
+1076,1093,10/23/2022,2,State of sky on the whole unchanged
+1077,1094,10/30/2022,53,"Drizzle, not freezing, continuous"
+1078,1095,11/13/2022,3,Clouds generally forming or developing
+1079,1096,11/20/2022,2,State of sky on the whole unchanged
+1080,1098,3/5/2023,0,Cloud development not observed or not observable
+1081,1099,3/19/2023,1,Clouds generally dissolving or becoming less developed
+1082,1100,4/2/2023,3,Clouds generally forming or developing
+1083,1101,4/30/2023,53,"Drizzle, not freezing, continuous"
+1084,1102,5/7/2023,51,"Drizzle, not freezing, continuous"
+1085,1104,5/28/2023,63,"Rain, not freezing, continuous"
+1086,1105,6/4/2023,63,"Rain, not freezing, continuous"
+1087,1106,6/18/2023,51,"Drizzle, not freezing, continuous"
+1088,1107,7/2/2023,51,"Drizzle, not freezing, continuous"
+1089,1108,7/9/2023,51,"Drizzle, not freezing, continuous"
+1090,1109,7/23/2023,1,Clouds generally dissolving or becoming less developed
+1091,1110,7/30/2023,53,"Drizzle, not freezing, continuous"
+1092,1111,8/27/2023,55,"Drizzle, not freezing, continuous"
+1093,1112,9/3/2023,1,Clouds generally dissolving or becoming less developed
+1094,1113,9/17/2023,61,"Rain, not freezing, continuous"
+1095,1114,9/24/2023,1,Clouds generally dissolving or becoming less developed
+1096,1115,10/8/2023,0,Cloud development not observed or not observable
+1097,1116,10/22/2023,51,"Drizzle, not freezing, continuous"
+1098,1117,10/29/2023,51,"Drizzle, not freezing, continuous"
+1099,1118,11/5/2023,51,"Drizzle, not freezing, continuous"
+1100,1119,11/19/2023,1,Clouds generally dissolving or becoming less developed
+1101,1120,11/26/2023,1,Clouds generally dissolving or becoming less developed
